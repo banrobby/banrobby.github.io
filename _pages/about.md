@@ -19,7 +19,7 @@ redirect_from:
 
 魏万里，男，1997年出生，2023年获得哈尔滨工程大学博士学位，现就读于中国矿业大学博士后。
 
-主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'>google scholar citations <strong><span id='total_cit'>80+</span></strong></a>  <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'> 谷歌学术 <strong><span id='total_cit'>80+</span></strong></a>  <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -49,7 +49,7 @@ redirect_from:
 - Chen-Long Huang, Zhen-Qing Wang, Shu-Tao Li, Ye-Qing Chen, Meng-Nan Dai, Wei Wu, **Wan-Li Wei**. Coupling algorithm of cavity expansion theory and finite element for penetrating reinforced concrete [J]. Engineering Fracture Mechanics, 2024, 311.
 - Zhen Gao, Ye-Qing Chen, Zhen-Qing Wang, Shu-Tao Li, **Wan-Li Wei**, Chen-Long Huang. Study on the failure effect of aramid reinforced concrete slab under localized blast loading [J]. Structures, 2024, 63.
 - Long-Ming Chen, Shu-Tao Li, Ye-Qing Chen, Dong Guo, **Wan-Li Wei**, Qiu-Shi Yan. Study on the dynamic characteristics of pile wharves subjected to underwater explosion [J]. Ocean Engineering, 2024, 291.
-- 朱擎, 李述涛, 陈叶青, 马上, 魏万里, 张生, 陈嘉琳. 高强钢-钢筋混凝土复合防护结构厚度极限计算方法 [J]. 力学学报, 2024, 56(07): 2077-2090.
+- 朱擎, 李述涛, 陈叶青, 马上, **魏万里**, 张生, 陈嘉琳. 高强钢-钢筋混凝土复合防护结构厚度极限计算方法 [J]. 力学学报, 2024, 56(07): 2077-2090.
 - Zhen Gao, Ye-Qing Chen, Zhen-Qing Wang, Shu-Tao Li, **Wan-Li Wei**, Chen-Long Huang. Shattering Effect Study of Aramid-Steel Composite Target Plates under Localized Blast Loading [J]. Sustainability, 2023, 15(5).
 - Chen-Long Huang, Ye-Qing Chen, Jian-Hui Wang, Zhen-Qing Wang, Qiang Zhao, Lei Zhu, **Wan-Li Wei**, Zhen Gao. Study on dynamic compressive mechanical properties of freeze-thaw concrete [J]. Construction and Building Materials, 2022, 322.
 
