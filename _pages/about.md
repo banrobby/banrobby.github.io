@@ -19,7 +19,8 @@ redirect_from:
 
 魏万里，男，1997年出生，2023年获得哈尔滨工程大学博士学位，现就读于中国矿业大学博士后。
 
-主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'> 谷歌学术 <strong><span id='total_cit'>80+</span></strong></a>  <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'> 谷歌学术 <strong><span id='total_cit'>80+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+邮箱：weiwanli-heu@hrbeu.edu.cn
 
 
 # 🔥 News
@@ -30,7 +31,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGIE 2023</div><img src='images/igie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on Damage Effect of Penetration and Explosion Integration Based on Volume Filling Method]
+Research on Damage Effect of Penetration and Explosion Integration Based on Volume Filling Method
 
 **WL Wei**, YeQing Chen, ZhenQing Wang, ShuTao Li
 
