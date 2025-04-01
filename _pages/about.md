@@ -19,7 +19,7 @@ redirect_from:
 
 魏万里，男，1997年出生，2023年获得哈尔滨工程大学博士学位，现就读于中国矿业大学博士后.
 
-主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'> 谷歌学术 <strong><span id='total_cit'>80+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+主要研究方向：侵彻、爆炸、侵爆联合作用、结构易损性等，总引用数 <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'> 谷歌学术 <strong><span id='total_cit'>80+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=vO1Nk-YAAAAJ'><img src="https://img.shields.io/endpoint?url={{ https://scholar.google.com/citations?user=vO1Nk-YAAAAJ | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 邮箱：weiwanli-heu@hrbeu.edu.cn
 
